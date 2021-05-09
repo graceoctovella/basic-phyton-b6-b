@@ -1,2 +1,5 @@
-"graceoctovella@gmail.com",
-"gracezefanya@hotmail.com"
+All mail = [
+    "fadzararxtkj22018@gmail.com",
+    "graceoctovella@gmail.com",
+    "gracezefanya@hotmail.com",
+    "fadzarar@cowokeren.com"]
